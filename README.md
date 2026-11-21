@@ -5,15 +5,16 @@ A curated collection of desktop and mobile wallpapers.
 ---
 
 ## Folders
-- [Root](#root) (4)
+- [Root](#root) (8)
 - [Astero (asteroid)](#astero-(asteroid)) (24)
 
 ## Root
 
 | Preview | Preview | Preview |
 | :---: | :---: | :---: |
-| <a href="1295574.png"><img src="1295574.png" alt="1295574.png" width="320" /></a><br/><code>1295574.png</code><br/><sub>📁 Root</sub> | <a href="artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg"><img src="artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg" alt="artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg" width="320" /></a><br/><code>artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg</code><br/><sub>📁 Root</sub> | <a href="miku-night-beach.jpg"><img src="miku-night-beach.jpg" alt="miku-night-beach.jpg" width="320" /></a><br/><code>miku-night-beach.jpg</code><br/><sub>📁 Root</sub> |
-| <a href="wuthering-waves-beach.jpg"><img src="wuthering-waves-beach.jpg" alt="wuthering-waves-beach.jpg" width="320" /></a><br/><code>wuthering-waves-beach.jpg</code><br/><sub>📁 Root</sub> |  |  |
+| <a href="1295574.png"><img src="1295574.png" alt="1295574.png" width="320" /></a><br/><code>1295574.png</code><br/><sub>📁 Root</sub> | <a href="artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg"><img src="artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg" alt="artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg" width="320" /></a><br/><code>artwork-simple-background-blue-stars-wallpaper-ebf69cfd13211fe92594cb491dfc1c80.jpg</code><br/><sub>📁 Root</sub> | <a href="Esdeath-young.jpg"><img src="Esdeath-young.jpg" alt="Esdeath-young.jpg" width="320" /></a><br/><code>Esdeath-young.jpg</code><br/><sub>📁 Root</sub> |
+| <a href="miku-graffiti.jpg"><img src="miku-graffiti.jpg" alt="miku-graffiti.jpg" width="320" /></a><br/><code>miku-graffiti.jpg</code><br/><sub>📁 Root</sub> | <a href="miku-night-beach.jpg"><img src="miku-night-beach.jpg" alt="miku-night-beach.jpg" width="320" /></a><br/><code>miku-night-beach.jpg</code><br/><sub>📁 Root</sub> | <a href="miku-shop.jpg"><img src="miku-shop.jpg" alt="miku-shop.jpg" width="320" /></a><br/><code>miku-shop.jpg</code><br/><sub>📁 Root</sub> |
+| <a href="wallhaven-je88qy.jpg"><img src="wallhaven-je88qy.jpg" alt="wallhaven-je88qy.jpg" width="320" /></a><br/><code>wallhaven-je88qy.jpg</code><br/><sub>📁 Root</sub> | <a href="wuthering-waves-beach.jpg"><img src="wuthering-waves-beach.jpg" alt="wuthering-waves-beach.jpg" width="320" /></a><br/><code>wuthering-waves-beach.jpg</code><br/><sub>📁 Root</sub> |  |
 
 ## Astero (asteroid)
 
